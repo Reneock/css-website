@@ -1,0 +1,94 @@
+.first { background-color: rgb(7, 78, 253);
+		height: 50px;
+		width: 100%;
+		color: white;
+		text-align: center;
+		padding-bottom: 20px;
+
+
+}
+
+.second { background-color: black;
+		 color: white;
+		 height: 20px;
+		 width: 100%;
+		 word-spacing: 2rem;
+
+}
+
+.second a { color: red;
+		 word-spacing: 2rem;
+
+}
+
+
+
+.firstimage { background-color: gray;
+				color: black;
+				height: 140px;
+				width: 85%;
+
+}
+
+
+
+
+.p p { background-color: gray;
+				color: black;
+				height: 45px;
+				width: 85%;
+
+}
+
+
+
+.secondimage { background-color: gray;
+				color: black;
+				height: 140px;
+				width: 130%;
+				
+
+}
+
+
+.shadow { background-color: gray;
+				color: black;
+				height: 140px;
+				width: 130%;
+
+}
+		
+
+
+.all { display: flex;
+
+}
+
+.left { width: 50%;
+		background-color:rgb(210, 210, 210);
+		margin-left: 10px;
+		padding-left: 100px;
+		margin-right: 10px;
+			
+			
+
+
+}
+
+.right { margin-right: 50px;
+		background-color: white;
+		padding-right: 150px;
+
+}
+
+
+		
+.foot h2 { background-color:gray;
+			text-align: center;
+			padding-bottom: 10px;
+			padding-top: 10px;
+		
+		
+		
+
+}
